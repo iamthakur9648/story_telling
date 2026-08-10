@@ -33,9 +33,6 @@
 
     </div>
 
-
-
-
     <div class="border1">
 
         <a href="EnglishP_1.php"><img src="picture31.png" /></a>
