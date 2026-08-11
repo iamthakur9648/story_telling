@@ -32,16 +32,16 @@
 
     <div class="border1">
 
-        <a href="Chapter_16.php"><img src="picture40.png" /></a>
+        <a href="Chapter_31.php"><img src="picture40.png" /></a>
 
     </div>
 
     <div class="border2">
-        <a href="Chapter_17.php"><img src="picture41.png" /></a>
+        <a href="Chapter_32.php"><img src="picture41.png" /></a>
     </div>
 
     <div class="border3">
-        <a href="Chapter_18.php"><img src="picture42.png" /></a>
+        <a href="Chapter_33.php"><img src="picture42.png" /></a>
     </div>
 
     <div class="border4">
