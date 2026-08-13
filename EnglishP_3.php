@@ -45,19 +45,19 @@
     </div>
 
     <div class="border4">
-        <a href="Chapter_19.php"><img src="picture43.png" /></a>
+        <a href="Chapter_34.php"><img src="picture43.png" /></a>
     </div>
 
     <div class="border5">
-        <a href="Chapter_20.php"><img src="picture44.png" /></a>
+        <a href="Chapter_35.php"><img src="picture44.png" /></a>
     </div>
 
     <div class="border6">
-        <a href="Chapter_21.php"><img src="picture45.png" /></a>
+        <a href="Chapter_36.php"><img src="picture45.png" /></a>
     </div>
 
     <div class="border7">
-        <a href="Chapter_22.php"><img src="picture46.png" /></a>
+        <a href="Chapter_37.php"><img src="picture46.png" /></a>
     </div>
 
     <div class="border8">
