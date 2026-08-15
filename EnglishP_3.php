@@ -61,31 +61,31 @@
     </div>
 
     <div class="border8">
-        <a href="Chapter_23.php"><img src="picture47.png" /></a>
+        <a href="Chapter_38.php"><img src="picture47.png" /></a>
     </div>
 
     <div class="border9">
-        <a href="Chapter_24.php"><img src="picture48.png" /></a>
+        <a href="Chapter_39.php"><img src="picture48.png" /></a>
     </div>
 
     <div class="border10">
-        <a href="Chapter_25.php"><img src="picture49.png" /></a>
+        <a href="Chapter_40.php"><img src="picture49.png" /></a>
     </div>
 
     <div class="border11">
-        <a href="Chapter_26.php"><img src="picture50.png" /></a>
+        <a href="Chapter_41.php"><img src="picture50.png" /></a>
     </div>
 
     <div class="border12">
-        <a href="Chapter_27.php"><img src="picture51.png" /></a>
+        <a href="Chapter_42.php"><img src="picture51.png" /></a>
     </div>
 
     <div class="border13">
-        <a href="Chapter_28.php"><img src="picture52.png" /></a>
+        <a href="Chapter_43.php"><img src="picture52.png" /></a>
     </div>
 
     <div class="border14">
-        <a href="Chapter_29.php"><img src="picture53.png" /></a>
+        <a href="Chapter_44.php"><img src="picture53.png" /></a>
     </div>
 
     <div class="border15">
