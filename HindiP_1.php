@@ -1,16 +1,19 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+
 <head>
     <meta charset="utf-8" />
-    <title>Home Page</title>
+    <title>Stories page_1</title>
+
     <link rel="stylesheet" href="Style_1.css" />
+
 </head>
 
 <body>
-
     <div class="header">
-        <a href="EnglishP_1.php"><img src="picture.png" /></a>
+        <a href="Home.php"><img src="picture.png" /></a>
 
         <h1>Whispering Tales</h1>
 
@@ -20,7 +23,9 @@
 
     <div class="topnav" style="border:border-box;">
         <a class="active" href="Home.php" target="_self">Home</a>
+
         <a href="About.php" target="_blank">About</a>
+
         <a href="#contact" target="_blank">Contact</a>
 
         <div class="search-container">
@@ -33,38 +38,40 @@
 
     </div>
 
+
+
     <div class="border1">
 
-        <a href="EnglishP_1.php"><img src="picture31.png" /></a>
+        <a href="#"><img src="picture1.png" /></a>
 
     </div>
 
     <div class="border2">
-        <a href="HindiP_1.php"><img src="picture32.png" /></a>
+        <a href="#"><img src="picture2.png" /></a>
     </div>
 
     <div class="border3">
-        <a href="#"><img src="picture33.png" /></a>
+        <a href="#"><img src="picture3.png" /></a>
     </div>
 
     <div class="border4">
-        <a href="#"><img src="picture34.png" /></a>
+        <a href="#"><img src="picture4.png" /></a>
     </div>
 
     <div class="border5">
-        <img src="picture39.png" />
+        <a href="#"><img src="picture5.png" /></a>
     </div>
 
     <div class="border6">
-        <a href="#"><img src="picture36.png" /></a>
+        <a href="#"><img src="picture6.png" /></a>
     </div>
 
     <div class="border7">
-        <a href="#"><img src="picture37.png" /></a>
+        <a href="#"><img src="picture7.png" /></a>
     </div>
 
     <div class="border8">
-        <a href="#"><img src="picture38.png" /></a>
+        <a href="#"><img src="picture8.png" /></a>
     </div>
 
     <div class="border9">
@@ -75,8 +82,34 @@
         <a href="#"><img src="picture10.png" /></a>
     </div>
 
-    <div>
-        <p style="margin-top: 700px; text-align: center; background-color: #D0F2DC; padding:16px;">@ Copyright Act 2026</p>
+    <div class="border11">
+        <a href="#"><img src="picture11.png" /></a>
+    </div>
+
+    <div class="border12">
+        <a href="#"><img src="picture12.png" /></a>
+    </div>
+
+    <div class="border13">
+        <a href="#"><img src="picture13.png" /></a>
+    </div>
+
+    <div class="border14">
+        <a href="#"><img src="picture14.png" /></a>
+    </div>
+
+    <div class="border15">
+        <a href="#"><img src="picture15.png" /></a>
+    </div>
+
+    <div class="button">
+        <a href="#" class="previous">Previous</a>
+
+        <a href="EnglishP_2.php" class="next">Next</a>
+    </div>
+
+    <div class="footer">
+        <p>@ Copyright Act 2026</p>
     </div>
 
 </body>
