@@ -89,7 +89,7 @@
     </div>
 
     <div class="border15">
-        <a href="Chapter_30.php"><img src="picture54.png" /></a>
+        <a href="Chapter_45.php"><img src="picture54.png" /></a>
     </div>
 
     <div class="button">
