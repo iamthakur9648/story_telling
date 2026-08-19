@@ -42,24 +42,24 @@
 
     <div class="border1">
 
-        <a href="#"><img src="picture1.png" /></a>
+        <a href="Chapter_46.php"><img src="picture55.png" /></a>
 
     </div>
 
     <div class="border2">
-        <a href="#"><img src="picture2.png" /></a>
+        <a href="Chapter_47.php"><img src="picture56.png" /></a>
     </div>
 
     <div class="border3">
-        <a href="#"><img src="picture3.png" /></a>
+        <a href="Chapter_48.php"><img src="picture57.png" /></a>
     </div>
 
     <div class="border4">
-        <a href="#"><img src="picture4.png" /></a>
+        <a href="Chapter_49.php"><img src="picture58.png" /></a>
     </div>
 
     <div class="border5">
-        <a href="#"><img src="picture5.png" /></a>
+        <a href="#"><img src="picture59.png" /></a>
     </div>
 
     <div class="border6">
