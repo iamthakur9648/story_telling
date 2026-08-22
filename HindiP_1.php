@@ -59,39 +59,39 @@
     </div>
 
     <div class="border5">
-        <a href="#"><img src="picture59.png" /></a>
+        <a href="Chapter_50.php"><img src="picture59.png" /></a>
     </div>
 
     <div class="border6">
-        <a href="#"><img src="picture6.png" /></a>
+        <a href="Chapter_51.php"><img src="picture60.png" /></a>
     </div>
 
     <div class="border7">
-        <a href="#"><img src="picture7.png" /></a>
+        <a href="Chapter_52.php"><img src="picture61.png" /></a>
     </div>
 
     <div class="border8">
-        <a href="#"><img src="picture8.png" /></a>
+        <a href="Chapter_53.php"><img src="picture62.png" /></a>
     </div>
 
     <div class="border9">
-        <a href="#"><img src="picture9.png" /></a>
+        <a href="Chapter_54.php"><img src="picture63.png" /></a>
     </div>
 
     <div class="border10">
-        <a href="#"><img src="picture10.png" /></a>
+        <a href="Chapter_55.php"><img src="picture64.png" /></a>
     </div>
 
     <div class="border11">
-        <a href="#"><img src="picture11.png" /></a>
+        <a href="#"><img src="picture65.png" /></a>
     </div>
 
     <div class="border12">
-        <a href="#"><img src="picture12.png" /></a>
+        <a href="#"><img src="picture66.png" /></a>
     </div>
 
     <div class="border13">
-        <a href="#"><img src="picture13.png" /></a>
+        <a href="#"><img src="picture67.png" /></a>
     </div>
 
     <div class="border14">
