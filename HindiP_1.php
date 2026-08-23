@@ -83,23 +83,23 @@
     </div>
 
     <div class="border11">
-        <a href="#"><img src="picture65.png" /></a>
+        <a href="Chapter_56.php"><img src="picture65.png" /></a>
     </div>
 
     <div class="border12">
-        <a href="#"><img src="picture66.png" /></a>
+        <a href="Chapter_57.php"><img src="picture66.png" /></a>
     </div>
 
     <div class="border13">
-        <a href="#"><img src="picture67.png" /></a>
+        <a href="Chapter_58.php"><img src="picture67.png" /></a>
     </div>
 
     <div class="border14">
-        <a href="#"><img src="picture14.png" /></a>
+        <a href="#"><img src="picture68.png" /></a>
     </div>
 
     <div class="border15">
-        <a href="#"><img src="picture15.png" /></a>
+        <a href="#"><img src="picture69.png" /></a>
     </div>
 
     <div class="button">
