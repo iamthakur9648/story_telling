@@ -95,17 +95,17 @@
     </div>
 
     <div class="border14">
-        <a href="#"><img src="picture68.png" /></a>
+        <a href="Chapter_59.php"><img src="picture68.png" /></a>
     </div>
 
     <div class="border15">
-        <a href="#"><img src="picture69.png" /></a>
+        <a href="Chapter_60.php"><img src="picture69.png" /></a>
     </div>
 
     <div class="button">
         <a href="#" class="previous">Previous</a>
 
-        <a href="EnglishP_2.php" class="next">Next</a>
+        <a href="#" class="next">Next</a>
     </div>
 
     <div class="footer">
