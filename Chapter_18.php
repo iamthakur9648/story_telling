@@ -17,7 +17,7 @@
 
     </div>
 
-    <div class="topnav" style="border-sizing: border-box; ">
+    <div class="topnav">
         <a class="active" href="Home.php" target="_self">Home</a>
         <a href="About.php" target="_blank">About</a>
         <a href="#contact" target="_blank">Contact</a>

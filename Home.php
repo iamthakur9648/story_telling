@@ -90,8 +90,8 @@ if(!empty($search)){
         <?php foreach ($result as $story): ?>
 
             <!--Dynamic link to story page-->
-            
-           <a href="<?php echo htmlspecialchars($story['EnglishP_1.php']);?>" style="text-decoration:none; color:inherit">
+
+           <a href="<?php echo htmlspecialchars($story['page_url']);?>" style="text-decoration:none; color:inherit">
             <div class="story-card">
                 <img src="<?php echo htmlspecialchars($story['img_url']);?>" alt="Story Image" />
                 <h3><?php echo htmlspecialchars($story['title']);?></h3>
