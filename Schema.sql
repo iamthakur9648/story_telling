@@ -35,8 +35,24 @@ INSERT INTO stories (title, category, img_url,page_url) VALUES
 ('A BOX FULL OF KISSES', 'Stories page_2', 'picture26.png','Chapter_26.php'),
 ('THE PRAYING HANDS', 'Stories page_2', 'picture27.png','Chapter_27.php'),
 ('THE FOUR WIVES', 'Stories page_2', 'picture28.png','Chapter_28.php'),
-('WAIT FOR THE BRICK', 'Stories page_2', 'picture29.png','Chapter_29.php'),
-('PUPPIES FOR SALE', 'Stories page_2', 'picture30.png','Chapter_30.php');
+('WAIT FOR THE BRICK', 'Stories page_2', 'picture29.jpg','Chapter_29.php'),
+('PUPPIES FOR SALE', 'Stories page_2', 'picture30.jpg','Chapter_30.php'),
+('THE MAN, THE BOY AND THE DONKEY', 'Stories page_3', 'picture40.png','Chapter_31.php'),
+('THE WOODEN BOWL', 'Stories page_3', 'picture41.png','Chapter_32.php'),
+('TREES THAT WOOD', 'Stories page_3', 'picture42.png','Chapter_33.php'),
+('PENCIL', 'Stories page_3', 'picture43.png','Chapter_34.php'),
+('DAD’S BLESSINGS', 'Stories page_3', 'picture44.png','Chapter_35.php'),
+('THE GREEDY CLOUD', 'Stories page_3', 'picture45.png','Chapter_36.php'),
+('A MAD MAN IN THE CITY', 'Stories page_3', 'picture46.png','Chapter_37.php'),
+('NEVER MAKE FUN OF A RHINO', 'Stories page_3', 'picture47.png','Chapter_38.php'),
+('THE MATH DUNCE', 'Stories page_3', 'picture48.png','Chapter_39.php'),
+('THE WHITE ROSE', 'Stories page_3', 'picture49.png','Chapter_40.php'),
+('THE RUBY THIEF', 'Stories page_3', 'picture50.png','Chapter_41.php'),
+('THE DRAWING THAT TALKED', 'Stories page_3', 'picture51.png','Chapter_42.php'),
+('THE SINGING HIPPO', 'Stories page_3', 'picture52.png','Chapter_43.php'),
+('THE INCREDIBLE BLACK RAIN', 'Stories page_3', 'picture53.png','Chapter_44.php'),
+('MY LITTLE WORLD HAS BROKEN', 'Stories page_3', 'picture54.png','Chapter_45.php');
+
 
 
 
