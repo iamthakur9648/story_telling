@@ -3,7 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>व्यपारी और लुटेरे</title>
+    <title>VYAPARI AUR LUTERE</title>
     <link rel="stylesheet" href="Style_2.css" />
 </head>
 

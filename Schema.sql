@@ -51,7 +51,22 @@ INSERT INTO stories (title, category, img_url,page_url) VALUES
 ('THE DRAWING THAT TALKED', 'Stories page_3', 'picture51.png','Chapter_42.php'),
 ('THE SINGING HIPPO', 'Stories page_3', 'picture52.png','Chapter_43.php'),
 ('THE INCREDIBLE BLACK RAIN', 'Stories page_3', 'picture53.png','Chapter_44.php'),
-('MY LITTLE WORLD HAS BROKEN', 'Stories page_3', 'picture54.png','Chapter_45.php');
+('MY LITTLE WORLD HAS BROKEN', 'Stories page_3', 'picture54.png','Chapter_45.php'),
+('LALCHI KISSAN', 'Stories page_1', 'picture55.png','Chapter_46.php'),
+('SACHI MITRATA', 'Stories page_1', 'picture56.png','Chapter_47.php'),
+('GRAHAN KA RAHSYA', 'Stories page_1', 'picture57.png','Chapter_48.php'),
+('MORR K PANKH KA RAHASYA', 'Stories page_1', 'picture58.png','Chapter_49.php'),
+('BRAMHAN AUR NAGIN', 'Stories page_1', 'picture59.png','Chapter_50.php'),
+('VYAPARI AUR LUTERE', 'Stories page_1', 'picture60.png','Chapter_51.php'),
+('JINNI KA KAMAL', 'Stories page_1', 'picture61.png','Chapter_52.php'),
+('BIKHAARI AUR LADDU', 'Stories page_1', 'picture62.png','Chapter_53.php'),
+('BODHISATTA KI BAHAADURI', 'Stories page_1', 'picture63.png','Chapter_54.php'),
+('CHHATUR SIYAR', 'Stories page_1', 'picture64.png','Chapter_55.php'),
+('MAASOOM SAVITRI', 'Stories page_1', 'picture65.png','Chapter_56.php'),
+('DAYALU KISSAN', 'Stories page_1', 'picture66.png','Chapter_57.php'),
+('BRAMHAN AUR NAUKAR', 'Stories page_1', 'picture67.png','Chapter_58.php'),
+('JADUI PEDH', 'Stories page_1', 'picture68.png','Chapter_59.php'),
+('GURU AUR SHISHY', 'Stories page_1', 'picture69.png','Chapter_60.php');
 
 
 
