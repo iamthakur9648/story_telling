@@ -3,7 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>TWINKLE TWINKLE LITTLE STAR</title>
+    <title>HUMPTY DUMPTY</title>
     <link rel="stylesheet" href="Style_2.css" />
 </head>
 
@@ -33,7 +33,7 @@
     </div>
 
     <div class="story">
-        <img src="img61.jpg" />
+        <img src="img62.jpg" />
     </div>
 
 
