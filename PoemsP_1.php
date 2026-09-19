@@ -116,8 +116,6 @@ if(!empty($search)){
 
 <?php else:?>       
 
-
-
     <div class="border1">
 
         <a href="Chapter_61.php"><img src="picture70.png" /></a>
@@ -137,15 +135,15 @@ if(!empty($search)){
     </div>
 
     <div class="border5">
-        <a href="#"><img src="picture5.png" /></a>
+        <a href="Chapter_65.php"><img src="picture74.png" /></a>
     </div>
 
     <div class="border6">
-        <a href="#"><img src="picture6.png" /></a>
+        <a href="Chapter_66.php"><img src="picture75.png" /></a>
     </div>
 
     <div class="border7">
-        <a href="#"><img src="picture7.png" /></a>
+        <a href="Chapter_67.php"><img src="picture76.png" /></a>
     </div>
 
     <div class="border8">
