@@ -147,15 +147,15 @@ if(!empty($search)){
     </div>
 
     <div class="border8">
-        <a href="#"><img src="picture8.png" /></a>
+        <a href="Chapter_68.php"><img src="picture77.png" /></a>
     </div>
 
     <div class="border9">
-        <a href="#"><img src="picture9.png" /></a>
+        <a href="Chapter_69.php"><img src="picture78.png" /></a>
     </div>
 
     <div class="border10">
-        <a href="#"><img src="picture10.png" /></a>
+        <a href="Chapter_70.php"><img src="picture79.png" /></a>
     </div>
 
     <div class="border11">
