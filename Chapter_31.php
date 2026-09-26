@@ -3,7 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>THE MAN, THE BOY AND THE DONKEY</title>
+    <title>The man, the boy and the donkey</title>
     <link rel="stylesheet" href="Style_2.css" />
 </head>
 
@@ -17,7 +17,7 @@
 
     </div>
 
-    <div class="topnav" style="border: border-box; ">
+    <div class="topnav">
         <a class="active" href="Home.php" target="_self">Home</a>
         <a href="About.php" target="_blank">About</a>
         <a href="#contact" target="_blank">Contact</a>

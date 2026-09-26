@@ -129,7 +129,7 @@ if(!empty($search)){
     </div>
 
     <div class="border5">
-        <img src="picture39.png" />
+        <a href="#"><img src="picture39.png" /></a>
     </div>
 
     <div class="border6">
@@ -160,3 +160,4 @@ if(!empty($search)){
 
 </body>
 </html>
+

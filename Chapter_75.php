@@ -3,7 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>The Incredible Black Rain</title>
+    <title>Tree</title>
     <link rel="stylesheet" href="Style_2.css" />
 </head>
 
@@ -33,9 +33,8 @@
     </div>
 
     <div class="story">
-        <img src="img44-1.jpg" />
+        <img src="img75.jpg" />
     </div>
-    <img style=" width: 75%; margin-left: 170px;" src="img44-2.jpg" />
 
 </body>
 </html>

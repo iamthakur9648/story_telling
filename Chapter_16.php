@@ -3,7 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>A FOX AND A CRANE</title>
+    <title>A fox and a crane</title>
     <link rel="stylesheet" href="Style_2.css" />
 </head>
 
